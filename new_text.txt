@@ -1,0 +1,2 @@
+This is new file in the repo, which i created two years back for my SPOJ solutions.
+I am creating this file only to learn 'Git' basics.
